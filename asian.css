@@ -18,6 +18,12 @@ h1{
     padding: 60px;
 }
 
+.information p:first-child {
+    background-color: aqua;
+    font-size: 1.5em;
+    padding: 10px;
+}
+
 
 p,ul,h4 {
   font-size: 1.5rem;
